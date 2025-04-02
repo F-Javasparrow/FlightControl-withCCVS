@@ -1,4 +1,4 @@
-####Fork from https://github.com/super95shao/shao-s-Flight-Control-with-cc-vs####
+### Fork from https://github.com/super95shao/shao-s-Flight-Control-with-cc-vs
 
 ### 此通用飞控是在上一代四旋翼螺旋桨飞控的基础上重写而来。
 ### 上一代的四旋翼飞控，原理是使用cc控制转速控制器的转速，修改物理轴承螺旋桨（襟翼轴承+flap）带来的升力、反扭力，进而实现姿态闭环控制。
